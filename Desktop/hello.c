@@ -4,7 +4,7 @@ int main(int argc, char** argv) {
 
     /* write 'Hello, world.' 20 times */
     int i;
-    for (i=1; i <= 20; i++)
+    for (i=1; i <= 30; i++)
     {
         printf("Hello, world.\n");
     }
